@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dikastillcoding.github.io/sitemap.xml
